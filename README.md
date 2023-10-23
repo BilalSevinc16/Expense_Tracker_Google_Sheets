@@ -1,16 +1,9 @@
-# expense_tracker_google_sheets
+# Expense Tracker Google Sheets
 
-A new Flutter project.
+Expense Tracker with Google Sheets
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Expense_Tracker_Google_Sheets/assets/146417248/adb32a0c-6051-4a0e-8884-36c760b4e383)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Expense_Tracker_Google_Sheets/assets/146417248/bd4507d6-a4b0-4406-9cd1-e68174c419cd)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Expense_Tracker_Google_Sheets/assets/146417248/8faa6724-8623-4e6c-9aa2-6007514404a8)
